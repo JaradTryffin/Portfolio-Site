@@ -14,8 +14,8 @@
       "state": "Kwa Zulu Natal",
       "zip": "4091"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
@@ -85,19 +85,19 @@
       {
         "title": "Amazon Clone (React JS)",
         "category": "",
-        "image": "Amazon-clone-Image.png",
+        "image": "Amazon-clone-Image.jpg",
         "url": "https://amazon-clone-2-0-lyart.vercel.app/"
       },
       {
         "title": "Apple Clone (HTML & CSS)",
         "category": "",
-        "image": "Apple-clone.png",
+        "image": "Apple-clone.jpg",
         "url": "https://apple-website-ten.vercel.app/"
       },
       {
         "title": "PlayStation (HTML & CSS)",
         "category": "",
-        "image": "Play-Station-Clone.png",
+        "image": "Play-Station-Clone.jpg",
         "url": "https://jaradtryffin.github.io/playstation/"
       }
     ]
