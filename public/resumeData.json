@@ -84,7 +84,7 @@
     "projects": [
       {
         "title": "Amazon Clone (React JS)",
-        "category": "",
+        "category": "Fake store api, Nextjs, Next Auth, Firebase,stripe",
         "image": "Amazon-clone-Image.jpg",
         "url": "https://amazon-clone-2-0-lyart.vercel.app/"
       },
@@ -99,6 +99,12 @@
         "category": "",
         "image": "Play-Station-Clone.jpg",
         "url": "https://jaradtryffin.github.io/playstation/"
+      },
+      {
+        "title": "Linkedin-Clone (React)",
+        "category": "React, Redux & Firebase",
+        "image": "mainpage.png",
+        "url": "https://github.com/JaradTryffin/linkedin-clone"
       }
     ]
   },
